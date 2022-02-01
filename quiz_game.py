@@ -8,35 +8,35 @@ else:
 
 Score = 0
 answer = input("Q1. What is the creators Name? ")
-if answer.lower() == "cheenu":
+if answer.lower() == "chaitanya":
     print("Correct!")
     Score += 1
 else:
     print("Incorrect!")
 
-answer = input("Q2. What is the his loves Name? ")
-if answer.lower() == "ananya":
+answer = input("Q2. What does he like to eat? ")
+if answer.lower() == "italian":
     print("Correct!")
     Score += 1
 else:
     print("Incorrect!")
 
-answer = input("Q3. What does he calls her by? ")
-if answer.lower() == "pucha":
+answer = input("Q3. What is his github name? ")
+if answer.lower() == "hlwa007":
     print("Correct!")
     Score += 1
 else:
     print("Incorrect!")
 
-answer = input("Q4. What does he want to eat and love? ")
-if answer.lower() == "pucha":
+answer = input("Q4. Which country does he live in? ")
+if answer.lower() == "india":
     print("Correct!")
     Score += 1
 else:
     print("Incorrect!")
 
-answer = input("Q5. What is their baby's name? ")
-if answer.lower() == "chinya":
+answer = input("Q5. What is he interested in? ")
+if answer.lower() == "exploration":
     print("Correct!")
     Score += 1
 else:
