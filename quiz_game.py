@@ -1,3 +1,6 @@
+'''
+This is a sample game like KBC. It has some questions built in with there answers and records if it is correct then you will be given 1 point. 
+'''
 print("Welcome to QUIZ GAME")
 play = input("Do you Wanna Play My Game? ")
 if play.lower() == "yes":
