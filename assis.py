@@ -1,3 +1,7 @@
+'''
+JARVIS PROGRAMME
+This a simple program that acts as a personal assistant. It wishes firsts and asks how can it help? then using microphone listens to query and performs various funtions.
+'''
 import pyttsx3 # voice module
 import speech_recognition as sr #speech recognizing module
 import datetime # date and time format
