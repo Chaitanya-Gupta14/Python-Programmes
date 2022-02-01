@@ -1,3 +1,6 @@
+'''
+Input a given range and then guess the Number between the range that the program (random module) has chosen.
+'''
 import random
 
 #Generating Random number using:
