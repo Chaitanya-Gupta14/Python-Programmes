@@ -2,6 +2,12 @@
 JARVIS PROGRAMME
 This a simple program that acts as a personal assistant. It wishes firsts and asks how can it help? then using microphone listens to query and performs various funtions.
 '''
+'''
+For errors like pip not recognised go to the folder python3.10 in your system
+Then copy the path and put the path link to the PATH part of user variables in environment variables
+Similarly copy the path of scripts folder too.
+Then pip install pyttsx3 in the Windows Powershell.
+'''
 import pyttsx3 # voice module
 import speech_recognition as sr #speech recognizing module
 import datetime # date and time format
